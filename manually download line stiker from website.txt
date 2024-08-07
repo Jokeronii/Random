@@ -1,0 +1,11 @@
+static type stickers
+http://dl.stickershop.line.naver.jp/products/0/0/1/StickerID/iphone/stickers@2x.zip
+
+non static type stickers
+http://dl.stickershop.line.naver.jp/products/0/0/1/StickerID/iphone/stickerpack@2x.zip
+
+note: 
+replace the 'StikerID' with specific id's each stikers
+
+When you get sticker using the second URL format, then in the ZIP package, it will contain a list of static and additional folder type image files (animation, popup or sound).
+This additional folder (animation/popup) can be converted to GIF of animated LINE sticker. As information, the files in animation folder are with APNG ( Animation PNG) extensions. Therefore, to change or convert APNG to GIF, you can use free software, or it can be done through online converter web such as Animizer 'icons8. com/animizer'.
