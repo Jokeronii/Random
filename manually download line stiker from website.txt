@@ -9,3 +9,5 @@ replace the 'StikerID' with specific id's each stikers
 
 When you get sticker using the second URL format, then in the ZIP package, it will contain a list of static and additional folder type image files (animation, popup or sound).
 This additional folder (animation/popup) can be converted to GIF of animated LINE sticker. As information, the files in animation folder are with APNG ( Animation PNG) extensions. Therefore, to change or convert APNG to GIF, you can use free software, or it can be done through online converter web such as Animizer 'icons8. com/animizer'.
+
+you can find the stiker id's on this page:https://yabeline.tw/Homepage.php or manually search on line webpage 
